@@ -72,7 +72,7 @@ This app allows users to **add**, **view**, **edit**, **delete**, **search**, an
 
 ---
 
-### 🔧 Backend Setup
+### 🔧 Frontend Setup
 
 ```bash
 
@@ -86,12 +86,13 @@ npm install
 npm run dev
 
 # App will run at http://localhost:5173
-
+```
 ---
 
 ### 🔧 Backend Setup
 
 ```bash
+
 # Clone the repository
 git clone <repo-url>
 
