@@ -26,7 +26,6 @@ A full-stack contact management app built using the **MERN stack**.
 
 ## 📂 Preview
 
-**🔹 My Contacts**  
 ![My Contacts](./ContactManagement/Images/6.png)
 
 
