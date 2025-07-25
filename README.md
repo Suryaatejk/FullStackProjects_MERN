@@ -35,11 +35,16 @@ A full-stack contact management app built using the **MERN stack**.
 - **Database:** MongoDB
 
 #### 📸 Preview:
-<div style="display: flex; gap: 10px">
-  <img src="./ContactManagement/Images/1.png" width="48%" alt="Landing Page"/>
-  <img src="./ContactManagement/Images/4.png" width="48%" alt="Add Contact"/>
-  <img src="./ContactManagement/Images/6.png" width="48%" alt="My Contacts"/>
-</div>
+
+**🔹 Landing Page**  
+![Landing Page](./ContactManagement/Images/1.png)
+
+**🔹 Add Contact**  
+![Add Contact](./ContactManagement/Images/4.png)
+
+**🔹 My Contacts**  
+![My Contacts](./ContactManagement/Images/6.png)
+
 
 #### 📂 Project Folder: [`/ContactManagementSystem`](./ContactManagement)
 
