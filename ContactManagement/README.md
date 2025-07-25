@@ -23,7 +23,7 @@ This app allows users to **add**, **view**, **edit**, **delete**, **search**, an
 > 📁 Place your images in a `/Images` folder and update paths if needed.
 
 ### 🏠 Landing Page
-<img src="./Images/1.png" alt="Landing Page" width="600"/>
+<img src="./Images/1.png" alt="Landing Page" width="1000"/>
 
 ### 🔐 Authentication
 <table>
