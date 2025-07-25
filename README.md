@@ -5,6 +5,16 @@ This collection contains hands-on projects built using modern web development te
 Each project is fully functional and includes CRUD operations, clean UIs, and responsive design.
 
 ---
+## 🛠️ Setup Instructions (for each project)
+
+Each project contains a `README.md` with:
+- Features
+- Tech Stack
+- Installation Instructions
+- Project Structure
+- Screenshots
+  
+---
 
 ## 📂 Projects Overview
 
@@ -32,7 +42,7 @@ A full-stack contact management app built using the **MERN stack**.
   <img src="./Images/6.png" width="48%" alt="My Contacts"/>
 </div>
 
-#### 📂 Project Folder: [`/ContactManagementSystem`](./ContactManagementSystem)
+#### 📂 Project Folder: [`/ContactManagementSystem`](./ContactManagement)
 
 ---
 
@@ -41,26 +51,6 @@ A full-stack contact management app built using the **MERN stack**.
 Future projects will be added here.
 
 ---
-
-## 🧠 Skills You Will Practice
-
-- Building RESTful APIs with Node.js & Express
-- Frontend development with React
-- Working with MongoDB for data persistence
-- Connecting frontend and backend
-- Handling forms and validation
-- Deployment-ready folder structures
-
----
-
-## 🛠️ Setup Instructions (for each project)
-
-Each project contains a `README.md` with:
-- Features
-- Tech Stack
-- Installation Instructions
-- Project Structure
-- Screenshots
 
 To run any project:
 
