@@ -15,7 +15,6 @@ A full-stack contact management app built using the **MERN stack**.
 #### 🔧 Features:
 - Add, view, edit, and delete contacts
 - Search and sort functionality
-- Responsive design (mobile & desktop)
 - Favorite contacts
 - Authentication (Login & Register)
 
