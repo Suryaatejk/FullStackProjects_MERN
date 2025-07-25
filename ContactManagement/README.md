@@ -7,22 +7,29 @@ This app allows users to **add**, **view**, **edit**, **delete**, **search**, an
 
 ## 🖼️ Project Demo
 
-> 📸 Add these images in a `/screenshots` folder and update the paths accordingly
+> 📸 Add these images in a `/Images` folder and update the paths accordingly
 
-- **Home Page / List View**
-  ![Home](./screenshots/home.png)
+- **Landing Page**
+  ![Landing](./Images/1.png)
 
+- **Authentication Pages**
+  ![Sign](./Images/2.png)
+  ![Login](./Images/3.png)
+  
 - **Add Contact**
-  ![Add Contact](./screenshots/add.png)
+  ![Add Contact](./Images/4.png)
 
 - **Edit Contact**
-  ![Edit Contact](./screenshots/edit.png)
+  ![Edit Contact](./Images/5.png)
+
+- **My Contacts**
+  ![Contacts](./Images/6.png)
+
+- **Favourite Contacts**
+  ![Fav Contact](./Images/7.png)
 
 - **Search Functionality**
-  ![Search](./screenshots/search.png)
-
-- **Mobile Responsive View (optional)**
-  ![Mobile](./screenshots/mobile.png)
+  ![Search](./Images/8.png)
 
 ---
 
