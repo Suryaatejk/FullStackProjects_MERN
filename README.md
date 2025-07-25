@@ -1,6 +1,6 @@
 # 🚀 Full Stack Projects Repository
 
-Welcome to the **Full Stack Projects Repository**!  
+Welcome to the **Full Stack Projects Repository (MERN)**!  
 This collection contains hands-on projects built using modern web development technologies such as **MongoDB**, **Express.js**, **React**, **Node.js**, and more.  
 Each project is fully functional and includes CRUD operations, clean UIs, and responsive design.
 
