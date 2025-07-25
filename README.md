@@ -34,6 +34,8 @@ A full-stack contact management app built using the **MERN stack**.
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 
+## 📂 Preview
+
 **🔹 My Contacts**  
 ![My Contacts](./ContactManagement/Images/6.png)
 
