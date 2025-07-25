@@ -19,11 +19,6 @@ A full-stack contact management app built using the **MERN stack**.
 - Favorite contacts
 - Authentication (Login & Register)
 
-#### 🛠 Tech Stack:
-- **Frontend:** React, Vite, CSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-
 ## 📂 Preview
 
 ![My Contacts](./ContactManagement/Images/6.png)
