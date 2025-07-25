@@ -5,16 +5,6 @@ This collection contains hands-on projects built using modern web development te
 Each project is fully functional and includes CRUD operations, clean UIs, and responsive design.
 
 ---
-## 🛠️ Setup Instructions (for each project)
-
-Each project contains a `README.md` with:
-- Features
-- Tech Stack
-- Installation Instructions
-- Project Structure
-- Screenshots
-  
----
 
 ## 📂 Projects Overview
 
@@ -48,6 +38,17 @@ A full-stack contact management app built using the **MERN stack**.
 
 Future projects will be added here.
 
+---
+
+## 🛠️ Setup Instructions (for each project)
+
+Each project contains a `README.md` with:
+- Features
+- Tech Stack
+- Installation Instructions
+- Project Structure
+- Screenshots
+  
 ---
 
 To run any project:
