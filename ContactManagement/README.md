@@ -28,25 +28,25 @@ This app allows users to **add**, **view**, **edit**, **delete**, **search**, an
 ### 🔐 Authentication
 <table>
   <tr>
-    <td><img src="./Images/2.png" alt="Sign Up" width="300"/></td>
-    <td><img src="./Images/3.png" alt="Login" width="300"/></td>
+    <td><img src="./Images/2.png" alt="Sign Up" width="400"/></td>
+    <td><img src="./Images/3.png" alt="Login" width="400"/></td>
   </tr>
 </table>
 
 ### ➕ Add Contact
-<img src="./Images/4.png" alt="Add Contact" width="600"/>
+<img src="./Images/4.png" alt="Add Contact" width="800"/>
 
 ### ✏️ Edit Contact
-<img src="./Images/5.png" alt="Edit Contact" width="600"/>
+<img src="./Images/5.png" alt="Edit Contact" width="800"/>
 
 ### 📒 My Contacts
-<img src="./Images/6.png" alt="All Contacts" width="600"/>
+<img src="./Images/6.png" alt="All Contacts" width="1000"/>
 
 ### ⭐ Favourite Contacts
-<img src="./Images/7.png" alt="Favourite Contacts" width="600"/>
+<img src="./Images/7.png" alt="Favourite Contacts" width="1000"/>
 
 ### 🔍 Search Functionality
-<img src="./Images/8.png" alt="Search" width="600"/>
+<img src="./Images/8.png" alt="Search" width="800"/>
 
 
 ## 🧰 Tech Stack
@@ -72,8 +72,12 @@ This app allows users to **add**, **view**, **edit**, **delete**, **search**, an
 
 ---
 
+### 🔧 Backend Setup
+
+```bash
+
 # Navigate to frontend directory
-cd ../Client/Frontend
+cd ../Frontend
 
 # Install frontend dependencies
 npm install
@@ -82,7 +86,6 @@ npm install
 npm run dev
 
 # App will run at http://localhost:5173
-
 
 ---
 
