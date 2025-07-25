@@ -37,7 +37,6 @@ A full-stack contact management app built using the **MERN stack**.
 #### 📸 Preview:
 <div style="display: flex; flex-wrap: wrap; gap: 10px">
   <img src="./ContactManagement/Images/1.png" width="48%" alt="Landing Page"/>
-  <img src="./ContactManagement/Images/2.png" width="48%" alt="Sign Up"/>
   <img src="./ContactManagement/Images/4.png" width="48%" alt="Add Contact"/>
   <img src="./ContactManagement/Images/6.png" width="48%" alt="My Contacts"/>
 </div>
