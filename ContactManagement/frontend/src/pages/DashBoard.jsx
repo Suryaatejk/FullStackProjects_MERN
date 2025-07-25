@@ -48,7 +48,9 @@ export default function DashBoard() {
 
     return (
         <div className="p-8 max-w-5xl mx-auto bg-[#f5f5dc] min-h-screen rounded-lg shadow-lg">
-            <h1 className="text-3xl font-bold mb-6 text-[#8d5524] text-center">My Contacts</h1>
+            <h1 className="text-3xl font-bold mb-6 text-[#8d5524] text-center">
+                {showFavorites ? 'My Favourite Contacts' : 'My Contacts'}
+            </h1>
 
             <div className="flex flex-col md:flex-row gap-3 mb-6 items-center">
                 <input
