@@ -3,7 +3,7 @@ import Dashboard from './pages/DashBoard';
 import ContactForm from './pages/ContactForm';
 import Profile from './pages/Profile';
 import Navbar from './components/NavBar';
-import Signup from './components/Auth/SignUp';
+import Signup from './components/Auth/Signup';
 import Login from './components/Auth/Login';
 import Landing from './pages/Landing';
 
