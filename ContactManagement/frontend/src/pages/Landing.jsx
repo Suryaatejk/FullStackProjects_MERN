@@ -6,7 +6,7 @@ const Landing = () => {
   return (
     <div className="min-h-screen flex flex-col justify-center items-center bg-[#f5f5dc]">
       <img
-        src="/assets/contact-book.png"
+        src="ContactManagement\frontend\src\assets\contact-book.png"
         alt="Contact Book"
         className="w-24 h-24 mb-6"
       />
