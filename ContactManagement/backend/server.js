@@ -16,3 +16,7 @@ app.use('/api/contacts', require('./routes/contacts'));
 mongoose.connect(process.env.MONGO_URL)
 .then(()=> app.listen(port, ()=> console.log('Backend Connected on 5000')))
 .catch(err => console.log(err));
+
+app.get("/", (req, res) => {
+  res.redirect("https://contactmanagement-frontend.onrender.com")
+});
